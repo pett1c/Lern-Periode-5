@@ -22,7 +22,7 @@
 
 ## 23.04.24 - Exploration
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich ausschliesslich darüber nachgedacht, was ich während dieser Lernperiode tun soll. Mein erster Gedanke war natürlich, meine in der letzten Periode beschriebene Idee fortzusetzen, aber nach dem Anruf von heute Morgen kam ich ins Grübeln und dachte, dass auch die Erstellung einer Website eine Option wäre. Ich werde noch mit demselben Freund darüber sprechen. (56 Wörter)
 
 ## 30.04.24
 
