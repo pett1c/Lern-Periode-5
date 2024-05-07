@@ -34,20 +34,24 @@ Heute habe ich mich (glaube ich) für ein Thema für LP5 entschieden, und es wur
 
 ## 07.05.24
 
-- [ ] Mockup: Erstellen ein Mockup auf der Grundlage einer [Referenz](https://agony-family.com/) und ändern es dann für meine persönliche Website.
-- [ ] header: Beginn der Arbeit am Hintergrund für den Header-Teil der Website + Platz für das Logo
-- [ ] Top-Menu: Beginn der Erstellung eines Top-Menüs mit Header-Links auf der Website.
+- [x] Mockup: Erstellen ein Mockup auf der Grundlage einer [Referenz](https://agony-family.com/) und ändern es dann für meine persönliche Website.
+- [x] header: Beginn der Arbeit am Hintergrund für den Header-Teil der Website + Platz für das Logo
+- [x] Top-Menu: Beginn der Erstellung eines Top-Menüs mit Header-Links auf der Website.
 - [ ] body: Beginn der Arbeit am Body-Teil der Website, d.h. Erstellung eines Blocks für die neuesten Veröffentlichungen auf der Website selbst (ein solcher Block sollte das Veröffentlichungscover, den Titel und den Smart-Link enthalten)
 
-Heute habe ich... (50-100 Wörter)
-Ich habe auch mit Herrn Colic gesprochen, und ...
+Heute habe ich bereits damit begonnen, die Website zu entwickeln und klar definiert, was genau ich tun werde. Die Wahl fiel auf die Erstellung einer Website für meine Musik, und ich fand sogar eine [Referenz](https://agony-family.com/). Zunächst habe ich mir das LB-Modul 293 angesehen, das direkt mit Websites zu tun hat. Zuerst dachte ich, es wäre eine gute Idee, Lern-Atelier und M293 zu kombinieren, um zu vermeiden, dass ich zwei Websites erstelle, und ich habe das sogar mit Herrn Colic besprochen, aber nachdem ich mir die Aufgaben näher angesehen hatte, wurde mir klar, dass LB mich in einen unangenehmen Rahmen stellt, also werde ich auf der Grundlage einer [Referenz](https://agony-family.com/) arbeiten, die ich selbst ausgewählt habe, und die Website so gestalten, wie ich sie haben möchte.
+
+Das erste, was ich auf der Grundlage von LB M293 gemacht habe, war ein Mockup für meine Website zu erstellen, was gut funktioniert hat. Ich habe zwei Versionen gemacht: eine für den PC und eine für das Handy. Auf der Grundlage des Mockups und der [Referenz](https://agony-family.com/) begann ich mit dem Schreiben der HTML-Seite. Am Ende konnte ich für heute einen Header mit einem Logo und einem Top-Menü erstellen. Für den Hauptteil hatte ich nicht genug Zeit.
+
+Ausserdem habe ich mich heute mit Herrn Colic unterhalten und wir haben über das Thema Lern-Pakete und ihre Bedeutung gesprochen, darüber, was ich schon gemacht habe und über meine Idee, LB M293 und Lern-Atelier zu kombinieren. Dank dieses Gesprächs weiss ich jetzt, was und wie ich es machen soll.
 
 ## 14.05.24
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Logo: Fügen der Website ein Logo hinzu (das Logo, das im Browser angezeigt wird)
+- [ ] Menü: Passen die Grösse des Menüs an (die Buttons ganz links und ganz rechts sollten bis zum Ende des Bildschirms reichen).
+- [ ] body #1: Erstellen auf der Grundlage des Mockups einen Block mit der neuesten Version (d. h. Titel "latest release", Bild (Cover der Release), Titel, Datum und Smart-Link zur Release selbst).
+- [ ] body #2: Erstellen auf der Grundlage des Mockups einen Block über mich mit meinem Bild, meinem Namen, einer kurzen Biografie und Links zu sozialen (und anderen) Netzwerken.
+- [ ] Links: Nicht vergessen, auf jeden Titel zu verlinken (für Menübuttons)
 
 Heute habe ich... (50-100 Wörter)
 
