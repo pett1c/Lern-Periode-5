@@ -26,33 +26,21 @@ Heute habe ich ausschliesslich darüber nachgedacht, was ich während dieser Ler
 
 ## 30.04.24
 
-- [ ] Feineinstellung von Visual Studio Code für HTML-Layout durch zwei Tutorials.
-- [ ] Hinzufügung verschiedener Erweiterungen (Plugins) zu VSC für effizientes Arbeiten.
-- [ ] Auffrischung der HTML- und CSS-Kenntnisse durch den Versuch, eine kleine Website zu schreiben, die in keiner Weise mit meinem Projekt zusammenhängt.
-
-| Testfall-Nummer | Ausgangslage (Given)                                                                                                                                                                                                                                                  | Eingabe (When)                                                 | Ausgabe (Then)                                                         | Erfüllt? |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|----------|
-| 1               | Ein kleines Tutorial, das sich mehr mit der Auflistung von Erweiterungen als mit der Einrichtung von VSC beschäftigt. Das zweite Tutorial ist umfangreicher, mit detaillierter Beschreibung der einzelnen notwendigen Einstellungen für die letzte effiziente Arbeit. | Eine Art Aktivierungs- oder Deaktivierungseinstellung im Video | Wiederholte Aktionen nach dem Autor des Videos                         | Ja       |
-| 2               | Tutorial                                                                                                                                                                                                                                                              | Im Video werden verschiedene nützliche Plugins gezeigt         | Wiederholung oder Nichtwiederholung der Aktionen des Autors des Videos | Ja       |
-| 3               | Ein weiteres Tutorial                                                                                                                                                                                                                                                 | Das Video zeigt und erklärt den Aufbau                         | Wiederholung von Aktionen mit eigenen Verbesserungen                   | Ja       |
+- [x] Feineinstellung von Visual Studio Code für HTML-Layout durch zwei Tutorials.
+- [x] Hinzufügung verschiedener Erweiterungen (Plugins) zu VSC für effizientes Arbeiten.
+- [x] Auffrischung der HTML- und CSS-Kenntnisse durch den Versuch, eine kleine Website zu schreiben, die in keiner Weise mit meinem Projekt zusammenhängt.
 
 Heute habe ich mich (glaube ich) für ein Thema für LP5 entschieden, und es wurde eine HTML- und CSS-basierte Website, die meine Musik und mich als Autor repräsentiert. Zunächst habe ich ein paar Tutorials über minimalistische und nützliche Anpassungen von Visual Studio Code gefunden, dann verschiedene Plugins hinzugefügt, um die Effizienz meiner Arbeit zu verbessern, und schließlich eine kleine Website auf der Grundlage eines anderen Tutorials geschrieben, nur um meine eigenen HTML- und CSS-Kenntnisse aufzufrischen, da ich schon seit einiger Zeit keine Websites mehr erstellt habe. (91 Wörter)
 
 ## 07.05.24
 
-- [ ] Beginn der Arbeiten an der Hauptseite, als Referenz.
-- [ ] Informationen und verschiedene Tutorials suchen.
-- [ ] ...
-- [ ] ...
-
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-[Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
+- [ ] Mockup: Erstellen ein Mockup auf der Grundlage einer [Referenz](https://agony-family.com/) und ändern es dann für meine persönliche Website.
+- [ ] header: Beginn der Arbeit am Hintergrund für den Header-Teil der Website + Platz für das Logo
+- [ ] Top-Menu: Beginn der Erstellung eines Top-Menüs mit Header-Links auf der Website.
+- [ ] body: Beginn der Arbeit am Body-Teil der Website, d.h. Erstellung eines Blocks für die neuesten Veröffentlichungen auf der Website selbst (ein solcher Block sollte das Veröffentlichungscover, den Titel und den Smart-Link enthalten)
 
 Heute habe ich... (50-100 Wörter)
+Ich habe auch mit Herrn Colic gesprochen, und ...
 
 ## 14.05.24
 
@@ -60,13 +48,6 @@ Heute habe ich... (50-100 Wörter)
 - [ ] ...
 - [ ] ...
 - [ ] ...
-
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-[Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
 
 Heute habe ich... (50-100 Wörter)
 
@@ -76,13 +57,6 @@ Heute habe ich... (50-100 Wörter)
 - [ ] ...
 - [ ] ...
 - [ ] ...
-
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-[Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
 
 Heute habe ich... (50-100 Wörter)
 
@@ -94,13 +68,6 @@ Heute habe ich... (50-100 Wörter)
 - [ ] ...
 - [ ] ...
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-[Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
-
 Heute habe ich... (50-100 Wörter)
 
 
@@ -111,13 +78,6 @@ Heute habe ich... (50-100 Wörter)
 - [ ] ...
 - [ ] ...
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-[Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
-
 Heute habe ich... (50-100 Wörter)
 
 ## 11.06.24
@@ -126,13 +86,6 @@ Heute habe ich... (50-100 Wörter)
 - [ ] ...
 - [ ] ...
 - [ ] ...
-
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-[Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
 
 Heute habe ich... (50-100 Wörter)
 
@@ -143,13 +96,6 @@ Heute habe ich... (50-100 Wörter)
 - [ ] ...
 - [ ] ...
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-[Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
-
 Heute habe ich... (50-100 Wörter)
 
 ## 25.06.24
@@ -158,12 +104,5 @@ Heute habe ich... (50-100 Wörter)
 - [ ] ...
 - [ ] ...
 - [ ] ...
-
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-[Markdown Tables generator](https://www.tablesgenerator.com/markdown_tables)
 
 Heute habe ich... (50-100 Wörter)
