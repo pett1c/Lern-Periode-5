@@ -47,13 +47,21 @@ Ausserdem habe ich mich heute mit Herrn Colic unterhalten und wir haben über da
 
 ## 14.05.24
 
-- [ ] Logo: Fügen der Website ein Logo hinzu (das Logo, das im Browser angezeigt wird)
-- [ ] Menü: Passen die Grösse des Menüs an (die Buttons ganz links und ganz rechts sollten bis zum Ende des Bildschirms reichen).
-- [ ] body #1: Erstellen auf der Grundlage des Mockups einen Block mit der neuesten Version (d. h. Titel "latest release", Bild (Cover der Release), Titel, Datum und Smart-Link zur Release selbst).
+- [x] Logo: Fügen der Website ein Logo hinzu (das Logo, das im Browser angezeigt wird)
+- [x] Menü: Passen die Grösse des Menüs an (die Buttons ganz links und ganz rechts sollten bis zum Ende des Bildschirms reichen).
+- [x] body #1: Erstellen auf der Grundlage des Mockups einen Block mit der neuesten Version (d. h. Titel "latest release", Bild (Cover der Release), Titel, Datum und Smart-Link zur Release selbst).
 - [ ] body #2: Erstellen auf der Grundlage des Mockups einen Block über mich mit meinem Bild, meinem Namen, einer kurzen Biografie und Links zu sozialen (und anderen) Netzwerken.
 - [ ] Links: Nicht vergessen, auf jeden Titel zu verlinken (für Menübuttons)
 
-Heute habe ich... (50-100 Wörter)
+Ich war heute ziemlich ineffizient, denn ich habe immer noch eine starke Abneigung gegen den Online-Typ. Jedenfalls habe ich die meisten Arbeits-Pakete gemacht, und einige habe ich abgebrochen oder mir ist die Zeit ausgegangen.
+
+Ich begann die Arbeit mit dem Hinzufügen eines Logos zu meiner Website-Registerkarte. Dank [Gemini](https://gemini.google.com/) habe ich eine [Seite](https://favicon.io/) gefunden, die mein png-Bild perfekt in alle möglichen Icons umwandelt, die für jede Art von Gerät geeignet sind. Alles in allem nichts Kompliziertes, außer dass man den richtigen Dateityp wählen muss, damit es richtig funktioniert.
+
+Als Nächstes habe ich versucht, die linke Taste an der linken Seite des Bildschirms und die rechte Taste an der rechten Seite zu "befestigen", aber es hat nicht funktioniert, also habe ich diese Idee aufgegeben und beschlossen, dass es so, wie es ist, gut aussieht.
+
+Obwohl ich es nicht im Arbeits-Paket angegeben habe, habe ich einen Hintergrund für den body Teil hinzugefügt. Ursprünglich wollte ich es einfach halten, indem ich einfach "background-image" zum CSS-Code für den Body hinzufügte, aber ich merkte, dass es besser aussehen würde, wenn ich das Bild in einen Block einfüge, der bereits im body ist. Fazit: Ich habe einen interessanten Hintergrund (den ich übrigens selbst gemacht habe, ich glaube, man kann ihn sehen), der sich nicht zu sehr ausdehnt und harmonisch und ästhetisch ansprechend aussieht.
+
+Die letzte Aufgabe für heute war es, einen Block mit der neuesten Release zu erstellen. Ich habe viel Zeit damit verbracht, alles schön zentriert zu gestalten, was mir am Ende auch gelungen ist. Trotzdem hoffe ich, dass ich alle "Krücken", die ich gemacht habe, korrigieren kann (zum Beispiel habe ich die Kopfzeile in einen separaten Block verschoben, damit sie zentriert ist, und so weiter). (280 Wörter)
 
 ## 21.05.24
 
