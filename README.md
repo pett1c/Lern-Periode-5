@@ -65,10 +65,11 @@ Die letzte Aufgabe für heute war es, einen Block mit der neuesten Release zu er
 
 ## 21.05.24
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Abschluss body #1: Unnötiges entfernen, eventuell an anderer Stelle nachbessern
+- [ ] Start body #2: Erstellen auf der Grundlage des Mockups einen Block über mich mit meinem Bild, meinem Namen, einer kurzen Biografie und Links zu sozialen (und anderen) Netzwerken.
+- [ ] Links: Nicht vergessen, auf jeden Titel zu verlinken (für Menübuttons)
+- [ ] Logo: mein Logo (wh01sme) in die Kopfzeile einfügen
+- [ ] Kopfzeile: so einrichten, dass beim Scrollen der Seite nur die Buttons und der Hintergrund mit dem Logo oben bleiben.
 
 Heute habe ich... (50-100 Wörter)
 
