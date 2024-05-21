@@ -80,7 +80,7 @@ Ausserdem habe ich das folgende Pakete verworfen:
 - body #1: denn ich habe völlig vergessen und verstehe nicht, was genau ich tun muss
 - Logo: Ich habe versucht, ein Logo hinzuzufügen, und es ist sehr seltsam und überhaupt nicht schön geworden.
 
-Das Fazit ist einfach: die Arbeit erwies sich als nicht sehr effizient und sehr kräftezehrend - wieder einmal beschwere ich mich über die Tatsache, dass ich zu Hause arbeiten muss - eine völlig unangenehme Arbeitsumgebung (Konzentrationsprobleme). Ich werde versuchen, nächste Woche mehr zu tun, und zwar pünktlich.
+Das Fazit ist einfach: die Arbeit erwies sich als nicht sehr effizient und sehr kräftezehrend - wieder einmal beschwere ich mich über die Tatsache, dass ich zu Hause arbeiten muss - eine völlig unangenehme Arbeitsumgebung (Konzentrationsprobleme). Ich werde versuchen, nächste Woche mehr zu tun, und zwar pünktlich. (170 Wörter)
 
 ## 28.05.24
 
