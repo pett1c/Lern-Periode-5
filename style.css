@@ -122,3 +122,73 @@ header nav a:hover{
 	text-decoration: none;
   }
   */
+
+/* ARTIST INFO SECTION */
+.artist-info {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    color: #EEF0FA;
+    font-family: "Balsamiq Sans", sans-serif;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.artist-info-header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid #EEF0FA;
+    padding: 10px;
+}
+
+.artist-name, .about, .links {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+}
+
+.artist-name {
+    text-align: left;
+}
+
+.links {
+    text-align: right;
+}
+
+.links a {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.ico{
+	width: 32px;
+	height: 32px;
+}
+/* PHOTO AND ABOUT TEXT SECTION */
+.artist-body {
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.artist-photo {
+    width: 25%;
+	height: 25%;
+    border: 1px solid #EEF0FA;
+    padding: 20px;
+}
+
+.artist-photo img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10%;
+}
+
+.artist-about-text {
+    flex: 1;
+    border: 1px solid #EEF0FA;
+    text-align: center;
+    padding: 20px;
+    margin-left: 20px;
+}
