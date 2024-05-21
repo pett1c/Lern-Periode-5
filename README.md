@@ -65,21 +65,29 @@ Die letzte Aufgabe für heute war es, einen Block mit der neuesten Release zu er
 
 ## 21.05.24
 
-- [ ] Abschluss body #1: Unnötiges entfernen, eventuell an anderer Stelle nachbessern
-- [ ] Start body #2: Erstellen auf der Grundlage des Mockups einen Block über mich mit meinem Bild, meinem Namen, einer kurzen Biografie und Links zu sozialen (und anderen) Netzwerken.
+- [ ] ~~Abschluss body #1: Unnötiges entfernen, eventuell an anderer Stelle nachbessern~~
+- [x] Start body #2: Erstellen auf der Grundlage des Mockups einen Block über mich mit meinem Bild, meinem Namen, einer kurzen Biografie und Links zu sozialen (und anderen) Netzwerken.
 - [ ] Links: Nicht vergessen, auf jeden Titel zu verlinken (für Menübuttons)
-- [ ] Logo: mein Logo (wh01sme) in die Kopfzeile einfügen
+- [ ] ~~Logo: mein Logo (wh01sme) in die Kopfzeile einfügen~~
 - [ ] Kopfzeile: so einrichten, dass beim Scrollen der Seite nur die Buttons und der Hintergrund mit dem Logo oben bleiben.
 
-Heute habe ich... (50-100 Wörter)
+Anmerkung:
+Die erste Version habe ich heute Morgen gemacht, aber sie hat mir so sehr missfallen, dass ich beschlossen habe, sie komplett neu zu machen.
 
+Den grössten Teil des Vormittags habe ich damit verbracht, einen neuen Biografie-Block hinzuzufügen. Ich hatte absolut keine Ahnung, dass es so lange dauern würde, aber es ist nun mal passiert. Dies ist nur die erste Version dieses Blocks, nächste Woche werde ich versuchen, ihn fertig zu stellen und ihm das gleiche Design zu geben wie dem ersten Block in der letzten Release.
+
+Ausserdem habe ich das folgende Pakete verworfen:
+- body #1: denn ich habe völlig vergessen und verstehe nicht, was genau ich tun muss
+- Logo: Ich habe versucht, ein Logo hinzuzufügen, und es ist sehr seltsam und überhaupt nicht schön geworden.
+
+Das Fazit ist einfach: die Arbeit erwies sich als nicht sehr effizient und sehr kräftezehrend - wieder einmal beschwere ich mich über die Tatsache, dass ich zu Hause arbeiten muss - eine völlig unangenehme Arbeitsumgebung (Konzentrationsprobleme). Ich werde versuchen, nächste Woche mehr zu tun, und zwar pünktlich.
 
 ## 28.05.24
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] End body #2: Ränder entfernen, Biografie statt Lorem Ipsum schreiben, Social-Media-Icons durch hellere ersetzen (weil sie wegen des Hintergrunds nicht zu sehen sind), ganz allgemein - alles an den allgemeinen Stil anpassen.
+- [ ] Links: Nicht vergessen, auf jeden Titel zu verlinken (für Menübuttons)
+- [ ] Kopfzeile: so einrichten, dass beim Scrollen der Seite nur die Buttons und der Hintergrund mit dem Logo oben bleiben.
+- [ ] Start body #3: den gleichen Block wie body #2 erstellen, nur um mein Album derealisation zu beschreiben
 
 Heute habe ich... (50-100 Wörter)
 
