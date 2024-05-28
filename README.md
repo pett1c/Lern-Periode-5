@@ -84,20 +84,21 @@ Das Fazit ist einfach: die Arbeit erwies sich als nicht sehr effizient und sehr 
 
 ## 28.05.24
 
-- [ ] End body #2: Ränder entfernen, Biografie statt Lorem Ipsum schreiben, Social-Media-Icons durch hellere ersetzen (weil sie wegen des Hintergrunds nicht zu sehen sind), ganz allgemein - alles an den allgemeinen Stil anpassen.
-- [ ] Links: Nicht vergessen, auf jeden Titel zu verlinken (für Menübuttons)
-- [ ] Kopfzeile: so einrichten, dass beim Scrollen der Seite nur die Buttons und der Hintergrund mit dem Logo oben bleiben.
+- [x] End body #2: Ränder entfernen, Biografie statt Lorem Ipsum schreiben, Social-Media-Icons durch hellere ersetzen (weil sie wegen des Hintergrunds nicht zu sehen sind), ganz allgemein - alles an den allgemeinen Stil anpassen.
+- [x] Links: Nicht vergessen, auf jeden Titel zu verlinken (für Menübuttons)
+- [x] Kopfzeile: so einrichten, dass beim Scrollen der Seite nur die Buttons und der Hintergrund mit dem Logo oben bleiben.
 - [ ] Start body #3: den gleichen Block wie body #2 erstellen, nur um mein Album derealisation zu beschreiben
 
-Heute habe ich... (50-100 Wörter)
+Der heutige Tag war ein äußerst produktiver Arbeitstag. Ich habe das "Layout", das ich beim letzten Mal gemacht habe, komplett überarbeitet und es so gestaltet, wie ich es haben wollte. Ich habe die Icons durch farbige Icons ersetzt, damit sie sichtbar sind, und habe den einzelnen Abschnitten IDs beigefügt, damit man dort navigieren kann. Außerdem konnte ich mit Hilfe von Gemini (Link) dafür sorgen, dass, wenn das Banner zu sehen ist, das Menü direkt darunter zu finden ist, und wenn das Banner nicht zu sehen ist, die Schaltflächen ganz oben zu finden sind, bzw. am oberen Rand angebracht sind.
 
 
 ## 04.06.24
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] body #1: Redesign für eine neue Version (ich habe einen neuen Track herausgebracht, also ist die letzte Version anders)
+- [ ] body #3: Layout erstellen
+- [ ] body #3: ein Design basierend auf diesem Layout erstellen
+- [ ] body #3: füge Informationen zu meinem ersten Album "derealisation" ein
+- [ ] body #4: beginne mit der Erstellung des letzten Blocks
 
 Heute habe ich... (50-100 Wörter)
 
