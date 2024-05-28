@@ -15,6 +15,7 @@
 </head>
 <header>
 	<img src="logo.png" alt="WH01SME">	
+</header>
 	<nav>
 		<ul>
 			<li><a href="#latest-release">latest release</a></li>
@@ -23,10 +24,9 @@
 			<li><a href="#first-rebirth">перше переродження</a></li>
 		</ul>
 	</nav>
-</header>
-<body>
+<main>
 	<div class="background-image"></div>	
-	<div class="latest-release-h1">
+	<div class="latest-release-h1" id="latest-release">
 		<h1 class="latest-release_title">latest release</h1>
 	</div>
 	<div class="latest-release-container">
@@ -40,19 +40,17 @@
 	</div>
 
 
-	<div class="artist-info">
+	<div class="artist-info" id="about">
         <div class="artist-info-header">
             <div class="artist-name">
                 <div>wh01sme</div>
                 <div>Ihor</div>
             </div>
-            <div class="about">
-            	ABOUT
-            </div>
+            <div class="about">about	</div>
             <div class="links">
                 <a href="https://open.spotify.com/artist/69M2CMczD1QF9wBPieWhqi?si=ZpuJUT2pSsmdQp25vzCBiA"><img src="spotify.png" alt="spotify" class="ico"></a>
                 <a href="https://www.youtube.com/@wh01sme"><img src="youtube.png" alt="youtube" class="ico"></a>
-                <a href="https://soundcloud.com/wh01sme-music"><img src="soundcloud.png" alt="soundcloud" class="ico"></a>
+                <a href="https://www.instagram.com/imanothing11"><img src="instagram.png" alt="instagram" class="ico"></a>
 				<a href="https://t.me/wh01sme_music"><img src="telegram.png" alt="telegram" class="ico"></a>
             </div>
         </div>
@@ -61,12 +59,39 @@
                 <img src="photo.jpg" alt="Artist Photo">
             </div>
             <div class="artist-about-text">
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam reiciendis voluptatibus laudantium culpa vero quo aliquid illum. Voluptatum non quibusdam, accusamus pariatur sequi suscipit repudiandae aperiam est optio officiis quisquam distinctio veritatis obcaecati eligendi architecto ipsa iure quo similique ea nemo dolores! Possimus hic nemo quia deserunt modi voluptates culpa a eos quas rerum accusamus autem, impedit quisquam tempora laborum. Ipsa sunt veniam explicabo similique itaque, rem porro dolores sed laboriosam fuga eveniet eligendi asperiores nulla totam, voluptatem quia fugit ut sit! Illum porro vel repellat quae, tempore amet praesentium, expedita nulla itaque animi vitae sapiente totam earum? Mollitia, obcaecati!</p>
-				<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam reiciendis voluptatibus laudantium culpa vero quo aliquid illum. Voluptatum non quibusdam, accusamus pariatur sequi suscipit repudiandae aperiam est optio officiis quisquam distinctio veritatis obcaecati eligendi architecto ipsa iure quo similique ea nemo dolores! Possimus hic nemo quia deserunt modi voluptates culpa a eos quas rerum accusamus autem, impedit quisquam tempora laborum. Ipsa sunt veniam explicabo similique itaque, rem porro dolores sed laboriosam fuga eveniet eligendi asperiores nulla totam, voluptatem quia fugit ut sit! Illum porro vel repellat quae, tempore amet praesentium, expedita nulla itaque animi vitae sapiente totam earum? Mollitia, obcaecati!</p>
+				<p>i am an aspiring artist in the genre of breakcore and other subgenres. born in kiev, currently living in switzerland, i've been doing music for about two or three years, but started to be active at the end of fall 2023.</p>
+				<p>who inspires me:</p>
+				<p>
+					<strong>・<a href="https://open.spotify.com/artist/4Kdoc0XdqBQaa3vgHj7mX9?si=PnCyIj_oS0-f7CqrXhuksg">dekma</a></strong> - experimental hip-hop<br>
+					<strong>・<a href="https://open.spotify.com/artist/3jiFQ3NPFm9VvzDragD4av?si=wHnDDTMXTryQV9m9003k2g">takizava</a></strong> - experimental<br>
+					<strong>・<a href="https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv?si=xi96FCd6Q9eeHDKizcU34w">JOHNNASCUS</a></strong> - experimental<br>
+					<strong>・<a href="https://open.spotify.com/artist/5UezsklPScipW64XJm7qql?si=vnXA3pivRgCjcGAph-lBAA">Merzbow</a></strong> - harsh-noise<br>
+					<strong>・<a href="https://open.spotify.com/artist/496nklFjflGjJOhhfhH2Nc?si=GS3LZVlhRWWXRxDEHKg4VQ">17 SEVENTEEN</a></strong> - russian hyperpop<br>
+					<strong>・<a href="https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S?si=F2SAWt72RaaLY_rH7VFvKg">m1v</a></strong> - english hyperpop<br>
+					<strong>・<a href="https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU?si=f9jb9L-YTTmHp2PVxLxJcw">Sewerslvt</a> (<a href="https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6?si=7kRG4cSnT0WzRM7w68bAWw">Cynthoni</a>)</strong> - breakcore<br>
+					<strong>・<a href="https://open.spotify.com/artist/0RfocEzLe78RexLTeU1K2p?si=922w9Cy0QWeKWmPWPl-g8Q">ssshhhhhiiittt!</a></strong> - russian industrial rock<br>
+				</p>
             </div>
         </div>
     </div>
+</main>
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+    const header = document.getElementById('header');
+    const nav = document.getElementById('nav');
+    const headerBottom = header.offsetTop + header.offsetHeight;
 
+    function onScroll() {
+        if (window.pageYOffset >= headerBottom) {
+            nav.classList.add('fixed-nav');
+        } else {
+            nav.classList.remove('fixed-nav');
+        }
+    }
+
+    window.addEventListener('scroll', onScroll);
+	});
+</script>
 </body>
 </html>
 
