@@ -95,19 +95,19 @@ Der heutige Tag war ein äußerst produktiver Arbeitstag. Ich habe das "Layout",
 ## 04.06.24
 
 - [ ] body #1: Redesign für eine neue Version (ich habe einen neuen Track herausgebracht, also ist die letzte Version anders)
-- [ ] body #3: Layout erstellen
-- [ ] body #3: ein Design basierend auf diesem Layout erstellen
-- [ ] body #3: füge Informationen zu meinem ersten Album "derealisation" ein
+- [x] body #3: Layout erstellen
+- [x] body #3: ein Design basierend auf diesem Layout erstellen
+- [x] body #3: füge Informationen zu meinem ersten Album "derealisation" ein
 - [ ] body #4: beginne mit der Erstellung des letzten Blocks
 
-Heute habe ich... (50-100 Wörter)
+Heute war der seltsamste Arbeit überhaupt. Aus mir noch unklaren Gründen war ich fast den ganzen Tag ohne Internet, wahrscheinlich wieder ein Problem auf der Sunrise-Seite. Jedenfalls habe ich die Arbeit erledigt, obwohl es schon so spät war. Als erstes habe ich also den vorletzten Informationsblock über mein erstes Album erstellt. Ich installierte die richtigen Icons als Links und optimierte das Layout und all das. Zum Schluss habe ich noch einen interessanten Farbverlauf als Hintergrundfarbe erstellt. Es sieht auffällig aus, aber so soll es auch sein, schliesslich ist diese Arbeit für mich sehr wichtig, da es die erste ist.
 
 ## 11.06.24
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] body #1: Redesign für eine neue Version (ich habe einen neuen Track herausgebracht, also ist die letzte Version anders)
+- [ ] body #4: Layout erstellen
+- [ ] body #4: ein Design basierend auf diesem Layout erstellen
+- [ ] body #4: füge Informationen zu meinem ersten Album "derealisation" ein
 
 Heute habe ich... (50-100 Wörter)
 
