@@ -4,6 +4,8 @@
 	--my-lightwhite: #EEF0FA;
 	--emerald: #50C878;
 	--my-yellow: #C65D00;
+	--my-blue: #000080;
+	--my-white: #FFF0EB;
 }
 
 
@@ -230,5 +232,17 @@ nav a:hover {
     width: 80%;
     margin: 0 auto;
 	background: linear-gradient(to right, var(--emerald), var(--my-yellow));
+	border-radius: 25px;
+	margin-bottom: 100px;
+}
+
+/* FIRST REBIRTH */
+.firstr-info {
+    display: flex;
+    flex-direction: column;
+    font-family: "Balsamiq Sans", sans-serif;
+    width: 80%;
+    margin: 0 auto;
+	background: linear-gradient(to right, var(--my-blue), var(--emerald));
 	border-radius: 25px;
 }
