@@ -109,7 +109,7 @@ Heute war der seltsamste Arbeit überhaupt. Aus mir noch unklaren Gründen war i
 - [x] body #4: ein Design basierend auf diesem Layout erstellen
 - [x] body #4: füge Informationen zu meinem ersten Album "derealisation" ein
 
-Heute habe ich... (50-100 Wörter)
+Heute war ein überraschend einfacher Tag. Ich habe erfolgreich und reibungslos einen neuen Block erstellt und ihn mit Informationen gefüllt. Ich musste nach einer geeigneten Farbe suchen, aber am Ende habe ich alles richtig gemacht und sogar der Farbverlauf sieht gut aus. Das Einzige, womit ich nicht besonders zufrieden bin, ist die Auflösung aller Symbole in jedem Block. Einige von ihnen sind zu "gestreckt", aber im Allgemeinen ist es erträglich. (70 Wörter)
 
 ## 18.06.24
 
@@ -118,7 +118,7 @@ Heute habe ich... (50-100 Wörter)
 - [ ] lb: Beginnen der Entwicklung der zweiten Version der Website, um die Anforderungen von LB (Modul 293) zu erfüllen
 - [ ] ...
 
-Heute war ein überraschend einfacher Tag. Ich habe erfolgreich und reibungslos einen neuen Block erstellt und ihn mit Informationen gefüllt. Ich musste nach einer geeigneten Farbe suchen, aber am Ende habe ich alles richtig gemacht und sogar der Farbverlauf sieht gut aus. Das Einzige, womit ich nicht besonders zufrieden bin, ist die Auflösung aller Symbole in jedem Block. Einige von ihnen sind zu "gestreckt", aber im Allgemeinen ist es erträglich. (70 Wörter)
+Heute habe ich... (50-100 Wörter)
 
 ## 25.06.24
 
