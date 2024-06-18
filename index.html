@@ -14,27 +14,29 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <header>
-	<img src="logo.png" alt="WH01SME">	
+	<img src="logo1.png" alt="WH01SME" id="logo1">
 </header>
-	<nav>
+	<nav class="navigation">
 		<ul>
 			<li><a href="#latest-release">latest release</a></li>
 			<li><a href="#about">about</a></li>
 			<li><a href="#derealisation">derealisation</a></li>
-			<li><a href="#first-rebirth">перше переродження</a></li>
+			<li><a href="#first-rebirth">first rebirth</a></li>
 		</ul>
 	</nav>
 <main>
-	<div class="background-image"></div>	
+	<div class="background-image"></div>
+
+	<!--latest release-->
 	<div class="latest-release-h1" id="latest-release">
 		<h1 class="latest-release_title">latest release</h1>
 	</div>
 	<div class="latest-release-container">
 		<div class="latest-release">
-			<img src="bg_header.png" alt="Cover Image" class="latest-release_cover-image">
-			<h2 class="latest-release_title">перше переродження</h2>
+			<img src="logo3.png" alt="Cover Image" class="latest-release_cover-image">
+			<h2 class="latest-release_title">натхнення</h2>
 			<div class="lrbutton">
-				<a href="https://share.amuse.io/track/wh01sme-pershe-pererodzhennia" class="latest-release_button">listen</a>
+				<a href="https://share.amuse.io/track/wh01sme-natkhnennia" class="latest-release_button">listen</a>
 			</div>
 		</div>
 	</div>
@@ -111,50 +113,51 @@
 
 	<!--first rebirth-->
 	<div class="firstr-info" id="first-rebirth">
-        <div class="artist-info-header">
-            <div class="artist-name">
-                <div>first rebirth.</div>
-                <div>перше переродження.</div>
-            </div>
-            <div class="about">about</div>
-            <div class="links">
-                <a href="https://open.spotify.com/album/4hLuxqqO1GayPbYSVldLhe?si=gwJGCEfTRKKQSAedo15WoA"><img src="spotify.png" alt="spotify" class="ico"></a>
-                <a href="https://www.deezer.com/en/album/576605151"><img src="deezer.png" alt="deezer" class="ico"></a>
-                <a href="https://music.apple.com/us/album/%D0%BF%D0%B5%D1%80%D1%88%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-single/1742505102"><img src="apple.png" alt="apple" class="ico"></a>
+		<div class="artist-info-header">
+			<div class="artist-name">
+				<div>first rebirth.</div>
+				<div>перше переродження.</div>
+			</div>
+			<div class="about">about</div>
+			<div class="links">
+				<a href="https://open.spotify.com/album/4hLuxqqO1GayPbYSVldLhe?si=gwJGCEfTRKKQSAedo15WoA"><img src="spotify.png" alt="spotify" class="ico"></a>
+				<a href="https://www.deezer.com/en/album/576605151"><img src="deezer.png" alt="deezer" class="ico"></a>
+				<a href="https://music.apple.com/us/album/%D0%BF%D0%B5%D1%80%D1%88%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-single/1742505102"><img src="apple.png" alt="apple" class="ico"></a>
 				<a href="https://music.youtube.com/playlist?list=OLAK5uy_kxNT7LsaX9R4xsMN2vwjnuBTjO6Gxbri8&si=XWYOAi4ZotUdn5_Y"><img src="youtube.png" alt="youtube" class="ico"></a>
-            </div>
-        </div>
-        <div class="artist-body">
-            <div class="artist-photo">
-                <img src="logo2.png" alt="first-rebirth">
-            </div>
-            <div class="artist-about-text">
+			</div>
+		</div>
+		<div class="artist-body">
+			<div class="artist-photo">
+				<img src="logo2.png" alt="first-rebirth">
+			</div>
+			<div class="artist-about-text">
 				<p>
 					this release is an indication that i'm still alive and still making music, as it turned out to take a bit longer than i expected for the album.
 					this track will be on the album, as well as the next track (or tracks) that will be released just before the album.
 					at the time i discovered the drum n' bass genre, i decided to try and write something, and i totally succeeded.
-					a great release that has already received over 1000 listens on Spotify.
+					a great release that has already received over 1000 streams on Spotify.
 				</p>
-            </div>
-        </div>
-    </div>
+			</div>
+		</div>
+	</div>
 
 </main>
 <script>
-	document.addEventListener('DOMContentLoaded', function() {
-    const header = document.getElementById('header');
-    const nav = document.getElementById('nav');
-    const headerBottom = header.offsetTop + header.offsetHeight;
+	document.addEventListener('DOMContentLoaded', function()
+	{
+		const header = document.getElementById('header');
+		const nav = document.getElementById('nav');
+		const headerBottom = header.offsetTop + header.offsetHeight;
 
-    function onScroll() {
-        if (window.pageYOffset >= headerBottom) {
-            nav.classList.add('fixed-nav');
-        } else {
-            nav.classList.remove('fixed-nav');
-        }
-    }
+		function onScroll() {
+			if (window.pageYOffset >= headerBottom) {
+				nav.classList.add('fixed-nav');
+			} else {
+				nav.classList.remove('fixed-nav');
+			}
+		}
 
-    window.addEventListener('scroll', onScroll);
+		window.addEventListener('scroll', onScroll);
 	});
 </script>
 </body>

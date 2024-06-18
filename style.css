@@ -8,6 +8,20 @@
 	--my-white: #FFF0EB;
 }
 
+@media (min-width: 768px) {
+	.navigation nav{
+		flex-direction: column;
+		align-items: center;
+		padding: 20px 0;
+		background-color: #000080;
+	}
+
+	nav li {
+		margin-top: 0;
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+}
 
 /* HEADER */
 header {
@@ -20,10 +34,11 @@ header {
 	padding: 20px;
 }
 
-header img {
+#logo1 {
 	display: block;
 	margin: 0 auto;
-	max-width: 8%;
+	width: 125px;
+	height: auto;
 	margin-top: 90px;
 	border: relative;
 	border-radius: 45px;
@@ -39,12 +54,6 @@ nav {
 	padding: 10px 0;
 	z-index: 1000;
 }
-
-@media (max-width: 768px) { /* Вместо 768px используйте ширину, когда header скрывается */
-	nav {
-	  margin-top: 0; /* Отступ сверху при прокрутке */
-	}
-  }
 
 nav ul {
 	list-style: none;
@@ -98,7 +107,7 @@ nav a:hover {
 .latest-release {
 	background-color: var(--my-lightgray);
 	border-radius: 10%;
-	width: 25%;
+	width: 300px;
 	padding: 20px;
 	text-align: center;
   }
@@ -116,6 +125,7 @@ nav a:hover {
   }
 
   .latest-release_cover-image {
+	max-width: 100%;
 	width: 256px;
 	height: 256px;
 	object-fit: cover;
@@ -154,7 +164,7 @@ nav a:hover {
     flex-direction: column;
 	margin-top: 50px;
     font-family: "Balsamiq Sans", sans-serif;
-    width: 80%;
+    width: 1250px;
     margin: 0 auto;
 	background-color: var(--my-lightgray);
 	border-radius: 25px;
