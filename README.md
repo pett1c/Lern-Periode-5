@@ -113,18 +113,15 @@ Heute war ein überraschend einfacher Tag. Ich habe erfolgreich und reibungslos 
 
 ## 18.06.24
 
-- [ ] body #1: Redesign für eine neue Version (ich habe einen neuen Track herausgebracht, also ist die letzte Version anders)
-- [ ] mobile: Beginnen der Entwicklung einer mobilen Version der Website zu machen
-- [ ] lb: Beginnen der Entwicklung der zweiten Version der Website, um die Anforderungen von LB (Modul 293) zu erfüllen
-- [ ] ...
+- [x] body #1: Redesign für eine neue Version (ich habe einen neuen Track herausgebracht, also ist die letzte Version anders)
+- [x] mobile: Beginnen der Entwicklung einer mobilen Version der Website zu machen
+- [x] lb: Beginnen der Entwicklung der zweiten Version der Website, um die Anforderungen von LB (Modul 293) zu erfüllen
 
-Heute habe ich... (50-100 Wörter)
+Heute war ein extrem produktiver Tag, ich habe alles geschafft, was ich machen wollte. Zuerst habe ich den Block "Neueste Version" geändert, und danach habe ich begonnen, die Website für Handys umzugestalten, damit sie anpassungsfähig ist. Bisher funktioniert das noch nicht sehr gut, aber ich hoffe, es wird klappen. Ich habe auch damit begonnen, die Website nach den Kriterien des Moduls LB 293 umzustellen.
 
 ## 25.06.24
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Weitere Umstellung der Website auf mobile Geräte
+- [ ] Weitere Fortsetzung der Migration der Website nach den Kriterien von LB 293.
 
 Heute habe ich... (50-100 Wörter)
