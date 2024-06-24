@@ -121,7 +121,14 @@ Heute war ein extrem produktiver Tag, ich habe alles geschafft, was ich machen w
 
 ## 25.06.24
 
-- [ ] Weitere Umstellung der Website auf mobile Geräte
-- [ ] Weitere Fortsetzung der Migration der Website nach den Kriterien von LB 293.
+- [x] Weitere Umstellung der Website auf mobile Geräte
+- [x] Weitere Fortsetzung der Migration der Website nach den Kriterien von LB 293.
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich hart gearbeitet, aber am Ende effizient. Ich begann mit dem Versuch, eine responsive Website zu erstellen, aber ich hatte absolut keinen Erfolg. Langsam, in aller Ruhe, kam ich dem Endergebnis immer näher, und die meiste Zeit wurde von zwei Dingen in Anspruch genommen:
+- Das Bild in jedem der Blöcke, das bei der Verkleinerung der Bildschirmgrösse irgendwie realisiert werden musste. Am Ende entschied ich mich dafür, das Originalbild zu "löschen" und durch eine kleinere Version zu ersetzen, die ich bereits an die Stelle des nicht besonders wichtigen Textes gesetzt hatte.
+- Die Navigationsleiste, auf die ich fast die gesamte verbleibende Zeit verwendet habe. Alles andere war nicht so schwer, wie diese Leiste endlich zum Laufen zu bringen. Mein Problem war, dass ich von Anfang an keine gute Struktur hatte und mir deshalb völlig absurde Lösungen für die künstlich geschaffenen Probleme einfallen liessen. Die Lösung erwies sich als extrem einfach und schnell, buchstäblich ein paar Zeilen Code. Es hat mich eine Menge Nerven gekostet, aber am Ende habe ich es geschafft.
+Ich habe auch einen Footer und einen kleinen Infobereich über dem Footer hinzugefügt, wie es LB293 von mir verlangt. In den Infobereich habe ich mein Angebot eingefügt, und in den Footer habe ich Kontakt für die Kontaktaufnahme und meinen Copyright eingefügt.
+
+## Reflexion
+
+Dieses Projekt war der Abschluss und eines der anstrengendsten, ich weiß nicht einmal genau, warum. Ich musste mich an viel längst vergessenes Wissen erinnern, denn ich habe HTML und CSS gelernt, als ich 11 Jahre alt war, also war es eine tolle Übung für mein Gedächtnis. Ausserdem habe ich dank der modernen Technologien in Form von VS Code meine Geschwindigkeit um das Tausendfache erhöht, nur wegen der Emmet-Technologie. Es ist einfach etwas Geniales, das es ermöglicht, nicht alles von Hand zu schreiben, sondern einfach die magische TAB-Taste zu benutzen. Ausserdem ist der Live-Server perfekt, um Änderungen sofort zu erfassen, besonders wenn man mit einem zweiten Monitor arbeitet. Ich habe auch gelernt, den Inspektor in Firefox zu benutzen, der mir sehr oft geholfen hat, indem er mir erlaubte, Änderungen genauso schnell zu sehen, wie ich sie direkt in Firefox vorgenommen hatte. Ganz nebenbei habe ich mir in dieser Zeit eine tolle Website zugelegt, die ich in Zukunft voll und ganz als meine eigene Website für meine Musik nutzen kann. Alles in allem bin ich mit mir selbst zufrieden, denn ich habe endlich etwas genau so gemacht, wie ich es wollte, habe genau den Aufwand betrieben, den ich wollte, und genau das erreicht, was ich wollte. Vielen Dank!
