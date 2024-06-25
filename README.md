@@ -3,5 +3,5 @@
 ![screenshotgif1](https://github.com/pett1c/Lern-Periode-5/assets/124619600/c2817038-cc65-4f68-b588-0bee879f961d)
 
 ## [ENG] A small site that allows you to learn more about my music.
-## [RU] Небольшой сайт, позволяющий более подробно узнать о моей музыки.
+## [RU] Небольшой сайт, позволяющий более подробно узнать о моей музыке.
 ## [DE] Eine kleine Website, auf der Sie mehr über meine Musik erfahren können.
